@@ -1,0 +1,32 @@
+#Login_Page
+{
+    background-image:url("real/ background/ 2.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#login_div{
+    margin-top: 330px;
+    margin-right: 20px;
+    background-color: rgba(245,217,241,0.842);
+    border-radius: 30px;
+    text-align: center;
+    float:none;
+}
+#login_btn{
+    margin-bottom:15px;
+}
+
+#welcome{
+    padding-top: 30px;
+}
+#username{
+    border-radius: 9px;
+    text-align: center;
+}
+
+#logout_btn{
+    float: right;
+    margin-top: 40px;
+    margin-right: 120px;
+}
